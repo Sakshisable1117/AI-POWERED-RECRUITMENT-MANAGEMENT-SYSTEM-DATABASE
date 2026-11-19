@@ -1,0 +1,18 @@
+{
+  "examples": 90,
+  "threshold": 50.0,
+  "accuracy": 0.9666666666666667,
+  "precision": 0.9375,
+  "recall": 1.0,
+  "f1": 0.967741935483871,
+  "confusion_matrix": [
+    [
+      42,
+      3
+    ],
+    [
+      0,
+      45
+    ]
+  ]
+}

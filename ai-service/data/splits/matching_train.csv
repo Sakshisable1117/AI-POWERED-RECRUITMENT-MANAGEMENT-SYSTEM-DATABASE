@@ -1,0 +1,421 @@
+candidate_id,job_id,candidate_skills,required_skills,matched_skills,missing_skills,experience_match,education_match,match_label
+C0001,J0019,Python|SQL|Statistics|Data Visualization|Scikit-learn|Machine Learning|NumPy|Teamwork|Problem Solving,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0001,J0060,Python|SQL|Statistics|Data Visualization|Scikit-learn|Machine Learning|NumPy|Teamwork|Problem Solving,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,False,True,0
+C0002,J0043,Python|Machine Learning|Deep Learning|MLOps|SQL|PyTorch|Communication|Time Management,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0002,J0018,Python|Machine Learning|Deep Learning|MLOps|SQL|PyTorch|Communication|Time Management,SQL|Python|Excel|Power BI,SQL|Python,Excel|Power BI,False,True,0
+C0004,J0013,SQL|Python|Excel|Statistics|Tableau|Data Cleaning|Data Visualization|Problem Solving|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0004,J0054,SQL|Python|Excel|Statistics|Tableau|Data Cleaning|Data Visualization|Problem Solving|Teamwork,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0005,J0007,HTML|CSS|JavaScript|Git|React|Responsive Design|Express|Problem Solving|Teamwork,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0005,J0024,HTML|CSS|JavaScript|Git|React|Responsive Design|Express|Problem Solving|Teamwork,Python|SQL|Statistics|Machine Learning,,Python|SQL|Statistics|Machine Learning,False,True,0
+C0006,J0049,SQL|PostgreSQL|MySQL|Database Design|Performance Tuning|Backup and Recovery|Teamwork|Communication,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0006,J0018,SQL|PostgreSQL|MySQL|Database Design|Performance Tuning|Backup and Recovery|Teamwork|Communication,SQL|Python|Excel|Power BI,SQL,Python|Excel|Power BI,True,True,0
+C0007,J0037,Figma|Wireframing|Prototyping|User Research|Usability Testing|Teamwork|Time Management,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0007,J0024,Figma|Wireframing|Prototyping|User Research|Usability Testing|Teamwork|Time Management,Python|SQL|Statistics|Machine Learning,,Python|SQL|Statistics|Machine Learning,True,True,0
+C0009,J0001,Python|Java|C++|Linux|SQL|Problem Solving|Documentation,Python|Java|C++,Python|Java|C++,,True,True,1
+C0009,J0024,Python|Java|C++|Linux|SQL|Problem Solving|Documentation,Python|SQL|Statistics|Machine Learning,Python|SQL,Statistics|Machine Learning,True,True,0
+C0010,J0043,Python|Machine Learning|Deep Learning|PyTorch|MLOps|TensorFlow|SQL|Time Management|Problem Solving,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0010,J0006,Python|Machine Learning|Deep Learning|PyTorch|MLOps|TensorFlow|SQL|Time Management|Problem Solving,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0012,J0055,Requirements Gathering|SQL|Excel|Stakeholder Management|Power BI|Problem Solving|Teamwork,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0012,J0012,Requirements Gathering|SQL|Excel|Stakeholder Management|Power BI|Problem Solving|Teamwork,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0013,J0019,Python|SQL|Statistics|Machine Learning|Scikit-learn|Data Visualization|Pandas|Problem Solving|Time Management,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0013,J0048,Python|SQL|Statistics|Machine Learning|Scikit-learn|Data Visualization|Pandas|Problem Solving|Time Management,Python|Machine Learning|Deep Learning|TensorFlow,Python|Machine Learning,Deep Learning|TensorFlow,True,True,0
+C0014,J0043,Python|Machine Learning|Deep Learning|PyTorch|Docker|Scikit-learn|SQL|Communication|Teamwork,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0014,J0024,Python|Machine Learning|Deep Learning|PyTorch|Docker|Scikit-learn|SQL|Communication|Teamwork,Python|SQL|Statistics|Machine Learning,Python|SQL|Machine Learning,Statistics,True,True,0
+C0016,J0055,Requirements Gathering|SQL|Excel|Power BI|Stakeholder Management|User Stories|Data Analysis|Teamwork|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0016,J0030,Requirements Gathering|SQL|Excel|Power BI|Stakeholder Management|User Stories|Data Analysis|Teamwork|Communication,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0017,J0055,Requirements Gathering|SQL|Excel|Power BI|User Stories|Stakeholder Management|Teamwork|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0017,J0036,Requirements Gathering|SQL|Excel|Power BI|User Stories|Stakeholder Management|Teamwork|Communication,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,True,True,0
+C0018,J0007,HTML|CSS|JavaScript|Express|Git|Node.js|React|Documentation|Time Management,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0018,J0018,HTML|CSS|JavaScript|Express|Git|Node.js|React|Documentation|Time Management,SQL|Python|Excel|Power BI,,SQL|Python|Excel|Power BI,True,True,0
+C0021,J0049,SQL|PostgreSQL|MySQL|Oracle|Database Design|Documentation|Communication,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0021,J0060,SQL|PostgreSQL|MySQL|Oracle|Database Design|Documentation|Communication,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,True,True,0
+C0024,J0049,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Oracle|Teamwork|Documentation,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0024,J0036,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Oracle|Teamwork|Documentation,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,True,True,0
+C0025,J0025,Python|Django|Flask|REST APIs|PostgreSQL|Pytest|Teamwork|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0025,J0036,Python|Django|Flask|REST APIs|PostgreSQL|Pytest|Teamwork|Communication,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,False,True,0
+C0026,J0025,Python|Django|Flask|REST APIs|FastAPI|Documentation|Time Management,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0026,J0060,Python|Django|Flask|REST APIs|FastAPI|Documentation|Time Management,Requirements Gathering|SQL|Excel|Power BI,,Requirements Gathering|SQL|Excel|Power BI,True,True,0
+C0027,J0049,SQL|PostgreSQL|MySQL|Linux|Oracle|Backup and Recovery|Documentation|Time Management,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0027,J0048,SQL|PostgreSQL|MySQL|Linux|Oracle|Backup and Recovery|Documentation|Time Management,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0028,J0037,Figma|Wireframing|Prototyping|Accessibility|Usability Testing|Design Systems|User Research|Teamwork|Documentation,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0028,J0006,Figma|Wireframing|Prototyping|Accessibility|Usability Testing|Design Systems|User Research|Teamwork|Documentation,Python|Java|C++|Git,,Python|Java|C++|Git,True,True,0
+C0029,J0013,SQL|Python|Excel|Tableau|Data Cleaning|Power BI|Time Management|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0029,J0060,SQL|Python|Excel|Tableau|Data Cleaning|Power BI|Time Management|Communication,Requirements Gathering|SQL|Excel|Power BI,SQL|Excel|Power BI,Requirements Gathering,True,True,0
+C0030,J0001,Python|Java|C++|REST APIs|Git|SQL|Documentation|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0030,J0048,Python|Java|C++|REST APIs|Git|SQL|Documentation|Teamwork,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0031,J0055,Requirements Gathering|SQL|Excel|Stakeholder Management|User Stories|Power BI|Documentation|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0031,J0012,Requirements Gathering|SQL|Excel|Stakeholder Management|User Stories|Power BI|Documentation|Communication,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0032,J0025,Python|Django|Flask|FastAPI|Pytest|Git|PostgreSQL|Communication|Problem Solving,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0032,J0048,Python|Django|Flask|FastAPI|Pytest|Git|PostgreSQL|Communication|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0033,J0037,Figma|Wireframing|Prototyping|Adobe XD|Accessibility|User Research|Time Management|Communication,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0033,J0018,Figma|Wireframing|Prototyping|Adobe XD|Accessibility|User Research|Time Management|Communication,SQL|Python|Excel|Power BI,,SQL|Python|Excel|Power BI,True,True,0
+C0034,J0007,HTML|CSS|JavaScript|Git|REST APIs|Responsive Design|Problem Solving|Communication,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0034,J0024,HTML|CSS|JavaScript|Git|REST APIs|Responsive Design|Problem Solving|Communication,Python|SQL|Statistics|Machine Learning,,Python|SQL|Statistics|Machine Learning,True,True,0
+C0035,J0043,Python|Machine Learning|Deep Learning|TensorFlow|MLOps|SQL|PyTorch|Time Management|Documentation,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0035,J0012,Python|Machine Learning|Deep Learning|TensorFlow|MLOps|SQL|PyTorch|Time Management|Documentation,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0037,J0049,SQL|PostgreSQL|MySQL|Backup and Recovery|Performance Tuning|Database Design|Linux|Time Management|Teamwork,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0037,J0012,SQL|PostgreSQL|MySQL|Backup and Recovery|Performance Tuning|Database Design|Linux|Time Management|Teamwork,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0040,J0007,HTML|CSS|JavaScript|REST APIs|Responsive Design|Node.js|Express|Documentation|Time Management,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0040,J0042,HTML|CSS|JavaScript|REST APIs|Responsive Design|Node.js|Express|Documentation|Time Management,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0041,J0049,SQL|PostgreSQL|MySQL|Database Design|Backup and Recovery|Performance Tuning|Time Management|Teamwork,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0041,J0042,SQL|PostgreSQL|MySQL|Database Design|Backup and Recovery|Performance Tuning|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0042,J0049,SQL|PostgreSQL|MySQL|Backup and Recovery|Linux|Database Design|Problem Solving|Communication,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0042,J0030,SQL|PostgreSQL|MySQL|Backup and Recovery|Linux|Database Design|Problem Solving|Communication,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0043,J0055,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Power BI|Stakeholder Management|Teamwork|Time Management,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0043,J0042,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Power BI|Stakeholder Management|Teamwork|Time Management,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0044,J0013,SQL|Python|Excel|Power BI|Tableau|Data Cleaning|Communication|Time Management,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0044,J0054,SQL|Python|Excel|Power BI|Tableau|Data Cleaning|Communication|Time Management,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0045,J0049,SQL|PostgreSQL|MySQL|Linux|Backup and Recovery|Documentation|Time Management,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0045,J0048,SQL|PostgreSQL|MySQL|Linux|Backup and Recovery|Documentation|Time Management,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0046,J0019,Python|SQL|Statistics|Machine Learning|Data Visualization|Pandas|Documentation|Communication,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0046,J0006,Python|SQL|Statistics|Machine Learning|Data Visualization|Pandas|Documentation|Communication,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0048,J0031,Java|Spring Boot|SQL|Git|Maven|OOP|Hibernate|Time Management|Communication,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0048,J0030,Java|Spring Boot|SQL|Git|Maven|OOP|Hibernate|Time Management|Communication,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0050,J0007,HTML|CSS|JavaScript|Express|React|Node.js|Teamwork|Time Management,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0050,J0024,HTML|CSS|JavaScript|Express|React|Node.js|Teamwork|Time Management,Python|SQL|Statistics|Machine Learning,,Python|SQL|Statistics|Machine Learning,True,True,0
+C0052,J0049,SQL|PostgreSQL|MySQL|Backup and Recovery|Linux|Documentation|Communication,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0052,J0006,SQL|PostgreSQL|MySQL|Backup and Recovery|Linux|Documentation|Communication,Python|Java|C++|Git,,Python|Java|C++|Git,True,True,0
+C0053,J0001,Python|Java|C++|OOP|Git|Docker|Documentation|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0053,J0048,Python|Java|C++|OOP|Git|Docker|Documentation|Teamwork,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0054,J0043,Python|Machine Learning|Deep Learning|MLOps|SQL|TensorFlow|Scikit-learn|Teamwork|Communication,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0054,J0036,Python|Machine Learning|Deep Learning|MLOps|SQL|TensorFlow|Scikit-learn|Teamwork|Communication,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,True,True,0
+C0055,J0019,Python|SQL|Statistics|Scikit-learn|Data Visualization|Machine Learning|Pandas|Teamwork|Documentation,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0055,J0030,Python|SQL|Statistics|Scikit-learn|Data Visualization|Machine Learning|Pandas|Teamwork|Documentation,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0056,J0025,Python|Django|Flask|Git|PostgreSQL|Pytest|Documentation|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0056,J0006,Python|Django|Flask|Git|PostgreSQL|Pytest|Documentation|Communication,Python|Java|C++|Git,Python|Git,Java|C++,True,True,0
+C0057,J0031,Java|Spring Boot|SQL|OOP|Hibernate|Maven|Time Management|Documentation,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0057,J0054,Java|Spring Boot|SQL|OOP|Hibernate|Maven|Time Management|Documentation,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0059,J0055,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Stakeholder Management|Power BI|Time Management|Documentation,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0059,J0036,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Stakeholder Management|Power BI|Time Management|Documentation,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,False,True,0
+C0060,J0037,Figma|Wireframing|Prototyping|Usability Testing|Design Systems|Adobe XD|Accessibility|Time Management|Teamwork,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0060,J0006,Figma|Wireframing|Prototyping|Usability Testing|Design Systems|Adobe XD|Accessibility|Time Management|Teamwork,Python|Java|C++|Git,,Python|Java|C++|Git,True,True,0
+C0062,J0049,SQL|PostgreSQL|MySQL|Oracle|Backup and Recovery|Performance Tuning|Teamwork|Documentation,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0062,J0030,SQL|PostgreSQL|MySQL|Oracle|Backup and Recovery|Performance Tuning|Teamwork|Documentation,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0064,J0049,SQL|PostgreSQL|MySQL|Performance Tuning|Linux|Backup and Recovery|Problem Solving|Documentation,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0064,J0030,SQL|PostgreSQL|MySQL|Performance Tuning|Linux|Backup and Recovery|Problem Solving|Documentation,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0065,J0043,Python|Machine Learning|Deep Learning|MLOps|Docker|Communication|Problem Solving,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0065,J0054,Python|Machine Learning|Deep Learning|MLOps|Docker|Communication|Problem Solving,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,True,True,0
+C0066,J0043,Python|Machine Learning|Deep Learning|MLOps|Docker|TensorFlow|Teamwork|Documentation,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0066,J0012,Python|Machine Learning|Deep Learning|MLOps|Docker|TensorFlow|Teamwork|Documentation,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0068,J0025,Python|Django|Flask|FastAPI|PostgreSQL|Communication|Teamwork,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0068,J0018,Python|Django|Flask|FastAPI|PostgreSQL|Communication|Teamwork,SQL|Python|Excel|Power BI,Python,SQL|Excel|Power BI,True,True,0
+C0069,J0013,SQL|Python|Excel|Data Visualization|Tableau|Power BI|Problem Solving|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0069,J0036,SQL|Python|Excel|Data Visualization|Tableau|Power BI|Problem Solving|Communication,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,True,True,0
+C0070,J0037,Figma|Wireframing|Prototyping|Usability Testing|Design Systems|Teamwork|Documentation,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0070,J0054,Figma|Wireframing|Prototyping|Usability Testing|Design Systems|Teamwork|Documentation,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,False,True,0
+C0075,J0043,Python|Machine Learning|Deep Learning|TensorFlow|Scikit-learn|Teamwork|Documentation,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0075,J0024,Python|Machine Learning|Deep Learning|TensorFlow|Scikit-learn|Teamwork|Documentation,Python|SQL|Statistics|Machine Learning,Python|Machine Learning,SQL|Statistics,False,True,0
+C0077,J0025,Python|Django|Flask|Git|PostgreSQL|FastAPI|REST APIs|Communication|Teamwork,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0077,J0024,Python|Django|Flask|Git|PostgreSQL|FastAPI|REST APIs|Communication|Teamwork,Python|SQL|Statistics|Machine Learning,Python,SQL|Statistics|Machine Learning,True,True,0
+C0079,J0055,Requirements Gathering|SQL|Excel|Stakeholder Management|User Stories|Data Analysis|Process Mapping|Communication|Problem Solving,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0079,J0048,Requirements Gathering|SQL|Excel|Stakeholder Management|User Stories|Data Analysis|Process Mapping|Communication|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0080,J0031,Java|Spring Boot|SQL|OOP|REST APIs|Documentation|Time Management,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0080,J0060,Java|Spring Boot|SQL|OOP|REST APIs|Documentation|Time Management,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,True,True,0
+C0082,J0031,Java|Spring Boot|SQL|Maven|Hibernate|Teamwork|Time Management,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0082,J0006,Java|Spring Boot|SQL|Maven|Hibernate|Teamwork|Time Management,Python|Java|C++|Git,Java,Python|C++|Git,False,True,0
+C0084,J0043,Python|Machine Learning|Deep Learning|MLOps|PyTorch|Problem Solving|Teamwork,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0084,J0018,Python|Machine Learning|Deep Learning|MLOps|PyTorch|Problem Solving|Teamwork,SQL|Python|Excel|Power BI,Python,SQL|Excel|Power BI,True,True,0
+C0085,J0025,Python|Django|Flask|Pytest|PostgreSQL|Problem Solving|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0085,J0012,Python|Django|Flask|Pytest|PostgreSQL|Problem Solving|Communication,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0088,J0055,Requirements Gathering|SQL|Excel|Data Analysis|Power BI|Time Management|Teamwork,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0088,J0042,Requirements Gathering|SQL|Excel|Data Analysis|Power BI|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0090,J0013,SQL|Python|Excel|Data Visualization|Statistics|Tableau|Time Management|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0090,J0060,SQL|Python|Excel|Data Visualization|Statistics|Tableau|Time Management|Teamwork,Requirements Gathering|SQL|Excel|Power BI,SQL|Excel,Requirements Gathering|Power BI,True,True,0
+C0092,J0049,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Linux|Teamwork|Time Management,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0092,J0018,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Linux|Teamwork|Time Management,SQL|Python|Excel|Power BI,SQL,Python|Excel|Power BI,False,True,0
+C0093,J0037,Figma|Wireframing|Prototyping|Design Systems|User Research|Teamwork|Problem Solving,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0093,J0024,Figma|Wireframing|Prototyping|Design Systems|User Research|Teamwork|Problem Solving,Python|SQL|Statistics|Machine Learning,,Python|SQL|Statistics|Machine Learning,True,True,0
+C0094,J0013,SQL|Python|Excel|Data Cleaning|Power BI|Tableau|Statistics|Teamwork|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0094,J0030,SQL|Python|Excel|Data Cleaning|Power BI|Tableau|Statistics|Teamwork|Communication,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0095,J0007,HTML|CSS|JavaScript|Express|Git|Teamwork|Communication,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0095,J0006,HTML|CSS|JavaScript|Express|Git|Teamwork|Communication,Python|Java|C++|Git,Git,Python|Java|C++,True,True,0
+C0096,J0025,Python|Django|Flask|Pytest|FastAPI|PostgreSQL|REST APIs|Communication|Problem Solving,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0096,J0024,Python|Django|Flask|Pytest|FastAPI|PostgreSQL|REST APIs|Communication|Problem Solving,Python|SQL|Statistics|Machine Learning,Python,SQL|Statistics|Machine Learning,False,True,0
+C0097,J0019,Python|SQL|Statistics|Data Visualization|Scikit-learn|Communication|Problem Solving,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0097,J0006,Python|SQL|Statistics|Data Visualization|Scikit-learn|Communication|Problem Solving,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0099,J0013,SQL|Python|Excel|Data Visualization|Power BI|Communication|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0099,J0006,SQL|Python|Excel|Data Visualization|Power BI|Communication|Teamwork,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0101,J0019,Python|SQL|Statistics|Data Visualization|Machine Learning|Scikit-learn|Problem Solving|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0101,J0030,Python|SQL|Statistics|Data Visualization|Machine Learning|Scikit-learn|Problem Solving|Teamwork,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0102,J0043,Python|Machine Learning|Deep Learning|Docker|SQL|Problem Solving|Time Management,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0102,J0030,Python|Machine Learning|Deep Learning|Docker|SQL|Problem Solving|Time Management,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0103,J0043,Python|Machine Learning|Deep Learning|Docker|TensorFlow|Documentation|Communication,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0103,J0036,Python|Machine Learning|Deep Learning|Docker|TensorFlow|Documentation|Communication,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,True,True,0
+C0104,J0037,Figma|Wireframing|Prototyping|User Research|Adobe XD|Accessibility|Time Management|Documentation,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0104,J0054,Figma|Wireframing|Prototyping|User Research|Adobe XD|Accessibility|Time Management|Documentation,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,True,True,0
+C0105,J0013,SQL|Python|Excel|Data Cleaning|Data Visualization|Time Management|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0105,J0060,SQL|Python|Excel|Data Cleaning|Data Visualization|Time Management|Communication,Requirements Gathering|SQL|Excel|Power BI,SQL|Excel,Requirements Gathering|Power BI,True,True,0
+C0108,J0001,Python|Java|C++|Docker|OOP|SQL|Linux|Teamwork|Problem Solving,Python|Java|C++,Python|Java|C++,,True,True,1
+C0108,J0012,Python|Java|C++|Docker|OOP|SQL|Linux|Teamwork|Problem Solving,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0109,J0013,SQL|Python|Excel|Data Visualization|Power BI|Tableau|Time Management|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0109,J0030,SQL|Python|Excel|Data Visualization|Power BI|Tableau|Time Management|Communication,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0111,J0013,SQL|Python|Excel|Data Visualization|Tableau|Power BI|Documentation|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0111,J0054,SQL|Python|Excel|Data Visualization|Tableau|Power BI|Documentation|Communication,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0113,J0043,Python|Machine Learning|Deep Learning|MLOps|TensorFlow|Scikit-learn|SQL|Teamwork|Communication,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0113,J0018,Python|Machine Learning|Deep Learning|MLOps|TensorFlow|Scikit-learn|SQL|Teamwork|Communication,SQL|Python|Excel|Power BI,SQL|Python,Excel|Power BI,True,True,0
+C0114,J0037,Figma|Wireframing|Prototyping|Usability Testing|Adobe XD|User Research|Design Systems|Teamwork|Time Management,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0114,J0054,Figma|Wireframing|Prototyping|Usability Testing|Adobe XD|User Research|Design Systems|Teamwork|Time Management,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,True,True,0
+C0115,J0031,Java|Spring Boot|SQL|Git|Maven|Hibernate|OOP|Documentation|Teamwork,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0115,J0060,Java|Spring Boot|SQL|Git|Maven|Hibernate|OOP|Documentation|Teamwork,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,False,True,0
+C0116,J0055,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Power BI|Problem Solving|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0116,J0036,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Power BI|Problem Solving|Communication,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,False,True,0
+C0117,J0037,Figma|Wireframing|Prototyping|Accessibility|Design Systems|Problem Solving|Time Management,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0117,J0036,Figma|Wireframing|Prototyping|Accessibility|Design Systems|Problem Solving|Time Management,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,False,True,0
+C0118,J0019,Python|SQL|Statistics|Pandas|Scikit-learn|NumPy|Data Visualization|Documentation|Problem Solving,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0118,J0018,Python|SQL|Statistics|Pandas|Scikit-learn|NumPy|Data Visualization|Documentation|Problem Solving,SQL|Python|Excel|Power BI,SQL|Python,Excel|Power BI,True,True,0
+C0121,J0025,Python|Django|Flask|Git|REST APIs|Pytest|Communication|Problem Solving,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0121,J0036,Python|Django|Flask|Git|REST APIs|Pytest|Communication|Problem Solving,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,True,True,0
+C0122,J0001,Python|Java|C++|Docker|SQL|REST APIs|Documentation|Communication,Python|Java|C++,Python|Java|C++,,True,True,1
+C0122,J0012,Python|Java|C++|Docker|SQL|REST APIs|Documentation|Communication,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0123,J0025,Python|Django|Flask|PostgreSQL|REST APIs|FastAPI|Pytest|Teamwork|Documentation,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0123,J0048,Python|Django|Flask|PostgreSQL|REST APIs|FastAPI|Pytest|Teamwork|Documentation,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0125,J0055,Requirements Gathering|SQL|Excel|Power BI|Data Analysis|Stakeholder Management|Documentation|Time Management,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0125,J0018,Requirements Gathering|SQL|Excel|Power BI|Data Analysis|Stakeholder Management|Documentation|Time Management,SQL|Python|Excel|Power BI,SQL|Excel|Power BI,Python,False,True,0
+C0126,J0007,HTML|CSS|JavaScript|Node.js|Responsive Design|Express|Git|Communication|Teamwork,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0126,J0030,HTML|CSS|JavaScript|Node.js|Responsive Design|Express|Git|Communication|Teamwork,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0127,J0001,Python|Java|C++|Git|Docker|Linux|Documentation|Time Management,Python|Java|C++,Python|Java|C++,,True,True,1
+C0127,J0030,Python|Java|C++|Git|Docker|Linux|Documentation|Time Management,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0128,J0013,SQL|Python|Excel|Power BI|Statistics|Data Visualization|Communication|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0128,J0030,SQL|Python|Excel|Power BI|Statistics|Data Visualization|Communication|Teamwork,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0129,J0013,SQL|Python|Excel|Data Cleaning|Data Visualization|Problem Solving|Time Management,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0129,J0030,SQL|Python|Excel|Data Cleaning|Data Visualization|Problem Solving|Time Management,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0130,J0031,Java|Spring Boot|SQL|REST APIs|Hibernate|Teamwork|Time Management,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0130,J0030,Java|Spring Boot|SQL|REST APIs|Hibernate|Teamwork|Time Management,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0131,J0043,Python|Machine Learning|Deep Learning|Scikit-learn|SQL|Communication|Teamwork,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0131,J0042,Python|Machine Learning|Deep Learning|Scikit-learn|SQL|Communication|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0132,J0001,Python|Java|C++|OOP|SQL|REST APIs|Documentation|Time Management,Python|Java|C++,Python|Java|C++,,True,True,1
+C0132,J0060,Python|Java|C++|OOP|SQL|REST APIs|Documentation|Time Management,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,True,True,0
+C0133,J0055,Requirements Gathering|SQL|Excel|Data Analysis|Process Mapping|User Stories|Teamwork|Time Management,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0133,J0006,Requirements Gathering|SQL|Excel|Data Analysis|Process Mapping|User Stories|Teamwork|Time Management,Python|Java|C++|Git,,Python|Java|C++|Git,False,True,0
+C0135,J0049,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Time Management|Problem Solving,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0135,J0048,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Time Management|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0137,J0049,SQL|PostgreSQL|MySQL|Linux|Database Design|Time Management|Teamwork,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0137,J0018,SQL|PostgreSQL|MySQL|Linux|Database Design|Time Management|Teamwork,SQL|Python|Excel|Power BI,SQL,Python|Excel|Power BI,True,True,0
+C0140,J0007,HTML|CSS|JavaScript|Responsive Design|React|Express|Teamwork|Problem Solving,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0140,J0036,HTML|CSS|JavaScript|Responsive Design|React|Express|Teamwork|Problem Solving,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,True,True,0
+C0141,J0049,SQL|PostgreSQL|MySQL|Database Design|Performance Tuning|Communication|Teamwork,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0141,J0030,SQL|PostgreSQL|MySQL|Database Design|Performance Tuning|Communication|Teamwork,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0144,J0025,Python|Django|Flask|FastAPI|REST APIs|Teamwork|Problem Solving,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0144,J0048,Python|Django|Flask|FastAPI|REST APIs|Teamwork|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0145,J0007,HTML|CSS|JavaScript|React|Express|Node.js|Time Management|Teamwork,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0145,J0042,HTML|CSS|JavaScript|React|Express|Node.js|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0146,J0025,Python|Django|Flask|REST APIs|Pytest|PostgreSQL|Git|Time Management|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0146,J0054,Python|Django|Flask|REST APIs|Pytest|PostgreSQL|Git|Time Management|Communication,SQL|PostgreSQL|MySQL|Oracle,PostgreSQL,SQL|MySQL|Oracle,False,True,0
+C0148,J0001,Python|Java|C++|SQL|OOP|Git|Communication|Problem Solving,Python|Java|C++,Python|Java|C++,,True,True,1
+C0148,J0030,Python|Java|C++|SQL|OOP|Git|Communication|Problem Solving,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0150,J0031,Java|Spring Boot|SQL|Hibernate|Maven|REST APIs|Problem Solving|Time Management,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0150,J0030,Java|Spring Boot|SQL|Hibernate|Maven|REST APIs|Problem Solving|Time Management,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0152,J0013,SQL|Python|Excel|Power BI|Data Visualization|Tableau|Time Management|Documentation,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0152,J0048,SQL|Python|Excel|Power BI|Data Visualization|Tableau|Time Management|Documentation,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0154,J0013,SQL|Python|Excel|Data Cleaning|Statistics|Power BI|Documentation|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0154,J0006,SQL|Python|Excel|Data Cleaning|Statistics|Power BI|Documentation|Communication,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0155,J0037,Figma|Wireframing|Prototyping|Design Systems|Adobe XD|Accessibility|User Research|Problem Solving|Communication,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0155,J0060,Figma|Wireframing|Prototyping|Design Systems|Adobe XD|Accessibility|User Research|Problem Solving|Communication,Requirements Gathering|SQL|Excel|Power BI,,Requirements Gathering|SQL|Excel|Power BI,True,True,0
+C0156,J0037,Figma|Wireframing|Prototyping|Accessibility|Design Systems|Time Management|Communication,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0156,J0036,Figma|Wireframing|Prototyping|Accessibility|Design Systems|Time Management|Communication,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,False,True,0
+C0157,J0001,Python|Java|C++|OOP|REST APIs|Docker|Linux|Time Management|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0157,J0060,Python|Java|C++|OOP|REST APIs|Docker|Linux|Time Management|Teamwork,Requirements Gathering|SQL|Excel|Power BI,,Requirements Gathering|SQL|Excel|Power BI,False,True,0
+C0158,J0001,Python|Java|C++|OOP|Docker|SQL|REST APIs|Communication|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0158,J0036,Python|Java|C++|OOP|Docker|SQL|REST APIs|Communication|Teamwork,Java|Spring Boot|SQL|Hibernate,Java|SQL,Spring Boot|Hibernate,True,True,0
+C0159,J0025,Python|Django|Flask|FastAPI|Git|REST APIs|Pytest|Communication|Documentation,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0159,J0036,Python|Django|Flask|FastAPI|Git|REST APIs|Pytest|Communication|Documentation,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,False,True,0
+C0161,J0049,SQL|PostgreSQL|MySQL|Performance Tuning|Oracle|Backup and Recovery|Linux|Time Management|Problem Solving,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0161,J0048,SQL|PostgreSQL|MySQL|Performance Tuning|Oracle|Backup and Recovery|Linux|Time Management|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0162,J0055,Requirements Gathering|SQL|Excel|Data Analysis|User Stories|Stakeholder Management|Teamwork|Time Management,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0162,J0012,Requirements Gathering|SQL|Excel|Data Analysis|User Stories|Stakeholder Management|Teamwork|Time Management,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0163,J0031,Java|Spring Boot|SQL|Maven|REST APIs|Git|OOP|Problem Solving|Documentation,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0163,J0042,Java|Spring Boot|SQL|Maven|REST APIs|Git|OOP|Problem Solving|Documentation,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0164,J0055,Requirements Gathering|SQL|Excel|Data Analysis|Stakeholder Management|Process Mapping|User Stories|Problem Solving|Teamwork,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0164,J0030,Requirements Gathering|SQL|Excel|Data Analysis|Stakeholder Management|Process Mapping|User Stories|Problem Solving|Teamwork,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0165,J0019,Python|SQL|Statistics|NumPy|Scikit-learn|Machine Learning|Data Visualization|Time Management|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0165,J0042,Python|SQL|Statistics|NumPy|Scikit-learn|Machine Learning|Data Visualization|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0166,J0037,Figma|Wireframing|Prototyping|Accessibility|Usability Testing|User Research|Adobe XD|Time Management|Problem Solving,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0166,J0030,Figma|Wireframing|Prototyping|Accessibility|Usability Testing|User Research|Adobe XD|Time Management|Problem Solving,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0167,J0031,Java|Spring Boot|SQL|Git|Hibernate|Maven|Problem Solving|Communication,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0167,J0030,Java|Spring Boot|SQL|Git|Hibernate|Maven|Problem Solving|Communication,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0169,J0049,SQL|PostgreSQL|MySQL|Database Design|Oracle|Linux|Documentation|Problem Solving,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0169,J0024,SQL|PostgreSQL|MySQL|Database Design|Oracle|Linux|Documentation|Problem Solving,Python|SQL|Statistics|Machine Learning,SQL,Python|Statistics|Machine Learning,True,True,0
+C0170,J0031,Java|Spring Boot|SQL|OOP|Hibernate|REST APIs|Maven|Documentation|Time Management,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0170,J0018,Java|Spring Boot|SQL|OOP|Hibernate|REST APIs|Maven|Documentation|Time Management,SQL|Python|Excel|Power BI,SQL,Python|Excel|Power BI,False,True,0
+C0171,J0007,HTML|CSS|JavaScript|Node.js|REST APIs|Express|Problem Solving|Communication,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0171,J0060,HTML|CSS|JavaScript|Node.js|REST APIs|Express|Problem Solving|Communication,Requirements Gathering|SQL|Excel|Power BI,,Requirements Gathering|SQL|Excel|Power BI,True,True,0
+C0172,J0001,Python|Java|C++|OOP|Linux|SQL|Git|Documentation|Communication,Python|Java|C++,Python|Java|C++,,True,True,1
+C0172,J0030,Python|Java|C++|OOP|Linux|SQL|Git|Documentation|Communication,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0173,J0055,Requirements Gathering|SQL|Excel|Stakeholder Management|Process Mapping|Data Analysis|Teamwork|Time Management,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0173,J0006,Requirements Gathering|SQL|Excel|Stakeholder Management|Process Mapping|Data Analysis|Teamwork|Time Management,Python|Java|C++|Git,,Python|Java|C++|Git,False,True,0
+C0175,J0025,Python|Django|Flask|Pytest|REST APIs|FastAPI|Problem Solving|Documentation,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0175,J0042,Python|Django|Flask|Pytest|REST APIs|FastAPI|Problem Solving|Documentation,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0176,J0025,Python|Django|Flask|Pytest|REST APIs|FastAPI|Time Management|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0176,J0018,Python|Django|Flask|Pytest|REST APIs|FastAPI|Time Management|Communication,SQL|Python|Excel|Power BI,Python,SQL|Excel|Power BI,True,True,0
+C0177,J0037,Figma|Wireframing|Prototyping|Accessibility|Usability Testing|Time Management|Problem Solving,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0177,J0006,Figma|Wireframing|Prototyping|Accessibility|Usability Testing|Time Management|Problem Solving,Python|Java|C++|Git,,Python|Java|C++|Git,False,True,0
+C0178,J0043,Python|Machine Learning|Deep Learning|MLOps|Docker|TensorFlow|Scikit-learn|Documentation|Communication,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0178,J0054,Python|Machine Learning|Deep Learning|MLOps|Docker|TensorFlow|Scikit-learn|Documentation|Communication,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,True,True,0
+C0181,J0037,Figma|Wireframing|Prototyping|Design Systems|Adobe XD|Usability Testing|Accessibility|Documentation|Time Management,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0181,J0048,Figma|Wireframing|Prototyping|Design Systems|Adobe XD|Usability Testing|Accessibility|Documentation|Time Management,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0182,J0019,Python|SQL|Statistics|Data Visualization|Pandas|NumPy|Problem Solving|Communication,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0182,J0048,Python|SQL|Statistics|Data Visualization|Pandas|NumPy|Problem Solving|Communication,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0184,J0037,Figma|Wireframing|Prototyping|Design Systems|User Research|Accessibility|Adobe XD|Communication|Time Management,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0184,J0006,Figma|Wireframing|Prototyping|Design Systems|User Research|Accessibility|Adobe XD|Communication|Time Management,Python|Java|C++|Git,,Python|Java|C++|Git,True,True,0
+C0185,J0025,Python|Django|Flask|Git|Pytest|Problem Solving|Time Management,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0185,J0024,Python|Django|Flask|Git|Pytest|Problem Solving|Time Management,Python|SQL|Statistics|Machine Learning,Python,SQL|Statistics|Machine Learning,True,True,0
+C0186,J0025,Python|Django|Flask|Pytest|PostgreSQL|Git|REST APIs|Problem Solving|Teamwork,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0186,J0042,Python|Django|Flask|Pytest|PostgreSQL|Git|REST APIs|Problem Solving|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0188,J0007,HTML|CSS|JavaScript|Node.js|Express|REST APIs|Problem Solving|Documentation,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0188,J0060,HTML|CSS|JavaScript|Node.js|Express|REST APIs|Problem Solving|Documentation,Requirements Gathering|SQL|Excel|Power BI,,Requirements Gathering|SQL|Excel|Power BI,False,True,0
+C0190,J0007,HTML|CSS|JavaScript|REST APIs|Express|Communication|Problem Solving,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0190,J0042,HTML|CSS|JavaScript|REST APIs|Express|Communication|Problem Solving,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0192,J0031,Java|Spring Boot|SQL|Hibernate|Git|OOP|Maven|Documentation|Problem Solving,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0192,J0030,Java|Spring Boot|SQL|Hibernate|Git|OOP|Maven|Documentation|Problem Solving,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0195,J0031,Java|Spring Boot|SQL|REST APIs|Git|Maven|Problem Solving|Documentation,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0195,J0018,Java|Spring Boot|SQL|REST APIs|Git|Maven|Problem Solving|Documentation,SQL|Python|Excel|Power BI,SQL,Python|Excel|Power BI,True,True,0
+C0197,J0037,Figma|Wireframing|Prototyping|User Research|Accessibility|Communication|Documentation,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0197,J0012,Figma|Wireframing|Prototyping|User Research|Accessibility|Communication|Documentation,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,False,True,0
+C0198,J0049,SQL|PostgreSQL|MySQL|Linux|Performance Tuning|Teamwork|Communication,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0198,J0048,SQL|PostgreSQL|MySQL|Linux|Performance Tuning|Teamwork|Communication,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0199,J0025,Python|Django|Flask|Git|FastAPI|Pytest|REST APIs|Time Management|Teamwork,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0199,J0018,Python|Django|Flask|Git|FastAPI|Pytest|REST APIs|Time Management|Teamwork,SQL|Python|Excel|Power BI,Python,SQL|Excel|Power BI,False,True,0
+C0204,J0013,SQL|Python|Excel|Tableau|Data Visualization|Documentation|Communication,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0204,J0012,SQL|Python|Excel|Tableau|Data Visualization|Documentation|Communication,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,False,True,0
+C0205,J0001,Python|Java|C++|SQL|OOP|REST APIs|Linux|Communication|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0205,J0030,Python|Java|C++|SQL|OOP|REST APIs|Linux|Communication|Teamwork,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0206,J0049,SQL|PostgreSQL|MySQL|Linux|Performance Tuning|Database Design|Communication|Teamwork,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0206,J0036,SQL|PostgreSQL|MySQL|Linux|Performance Tuning|Database Design|Communication|Teamwork,Java|Spring Boot|SQL|Hibernate,SQL,Java|Spring Boot|Hibernate,True,True,0
+C0207,J0001,Python|Java|C++|OOP|REST APIs|Linux|Communication|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0207,J0030,Python|Java|C++|OOP|REST APIs|Linux|Communication|Teamwork,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0209,J0037,Figma|Wireframing|Prototyping|Adobe XD|Accessibility|User Research|Problem Solving|Communication,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0209,J0048,Figma|Wireframing|Prototyping|Adobe XD|Accessibility|User Research|Problem Solving|Communication,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0210,J0013,SQL|Python|Excel|Statistics|Power BI|Time Management|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0210,J0042,SQL|Python|Excel|Statistics|Power BI|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0211,J0031,Java|Spring Boot|SQL|OOP|REST APIs|Maven|Hibernate|Documentation|Problem Solving,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0211,J0042,Java|Spring Boot|SQL|OOP|REST APIs|Maven|Hibernate|Documentation|Problem Solving,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0212,J0007,HTML|CSS|JavaScript|Node.js|REST APIs|Teamwork|Documentation,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0212,J0036,HTML|CSS|JavaScript|Node.js|REST APIs|Teamwork|Documentation,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,False,True,0
+C0213,J0055,Requirements Gathering|SQL|Excel|Stakeholder Management|Process Mapping|Documentation|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0213,J0030,Requirements Gathering|SQL|Excel|Stakeholder Management|Process Mapping|Documentation|Communication,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0214,J0049,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Database Design|Linux|Documentation|Problem Solving,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0214,J0048,SQL|PostgreSQL|MySQL|Performance Tuning|Backup and Recovery|Database Design|Linux|Documentation|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0215,J0031,Java|Spring Boot|SQL|Git|Maven|Teamwork|Documentation,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0215,J0012,Java|Spring Boot|SQL|Git|Maven|Teamwork|Documentation,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0216,J0013,SQL|Python|Excel|Power BI|Tableau|Statistics|Time Management|Problem Solving,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0216,J0054,SQL|Python|Excel|Power BI|Tableau|Statistics|Time Management|Problem Solving,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0218,J0019,Python|SQL|Statistics|Scikit-learn|Data Visualization|Time Management|Documentation,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0218,J0012,Python|SQL|Statistics|Scikit-learn|Data Visualization|Time Management|Documentation,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,True,True,0
+C0219,J0043,Python|Machine Learning|Deep Learning|MLOps|TensorFlow|SQL|Docker|Teamwork|Problem Solving,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0219,J0054,Python|Machine Learning|Deep Learning|MLOps|TensorFlow|SQL|Docker|Teamwork|Problem Solving,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0220,J0013,SQL|Python|Excel|Power BI|Data Visualization|Teamwork|Problem Solving,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0220,J0030,SQL|Python|Excel|Power BI|Data Visualization|Teamwork|Problem Solving,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0223,J0007,HTML|CSS|JavaScript|Responsive Design|REST APIs|Express|Communication|Teamwork,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0223,J0048,HTML|CSS|JavaScript|Responsive Design|REST APIs|Express|Communication|Teamwork,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0224,J0043,Python|Machine Learning|Deep Learning|SQL|PyTorch|Problem Solving|Time Management,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0224,J0060,Python|Machine Learning|Deep Learning|SQL|PyTorch|Problem Solving|Time Management,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,True,True,0
+C0225,J0031,Java|Spring Boot|SQL|REST APIs|OOP|Maven|Documentation|Time Management,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0225,J0030,Java|Spring Boot|SQL|REST APIs|OOP|Maven|Documentation|Time Management,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,False,True,0
+C0227,J0031,Java|Spring Boot|SQL|Maven|Git|Time Management|Teamwork,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0227,J0006,Java|Spring Boot|SQL|Maven|Git|Time Management|Teamwork,Python|Java|C++|Git,Java|Git,Python|C++,True,True,0
+C0228,J0055,Requirements Gathering|SQL|Excel|Data Analysis|Process Mapping|User Stories|Teamwork|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0228,J0018,Requirements Gathering|SQL|Excel|Data Analysis|Process Mapping|User Stories|Teamwork|Communication,SQL|Python|Excel|Power BI,SQL|Excel,Python|Power BI,True,True,0
+C0229,J0031,Java|Spring Boot|SQL|REST APIs|Maven|Problem Solving|Documentation,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0229,J0018,Java|Spring Boot|SQL|REST APIs|Maven|Problem Solving|Documentation,SQL|Python|Excel|Power BI,SQL,Python|Excel|Power BI,True,True,0
+C0230,J0013,SQL|Python|Excel|Data Visualization|Tableau|Statistics|Power BI|Documentation|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0230,J0030,SQL|Python|Excel|Data Visualization|Tableau|Statistics|Power BI|Documentation|Teamwork,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0231,J0031,Java|Spring Boot|SQL|Hibernate|Git|OOP|Problem Solving|Documentation,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0231,J0042,Java|Spring Boot|SQL|Hibernate|Git|OOP|Problem Solving|Documentation,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0232,J0007,HTML|CSS|JavaScript|REST APIs|Node.js|React|Time Management|Communication,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0232,J0048,HTML|CSS|JavaScript|REST APIs|Node.js|React|Time Management|Communication,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0233,J0019,Python|SQL|Statistics|NumPy|Pandas|Scikit-learn|Data Visualization|Time Management|Communication,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0233,J0054,Python|SQL|Statistics|NumPy|Pandas|Scikit-learn|Data Visualization|Time Management|Communication,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0234,J0019,Python|SQL|Statistics|Scikit-learn|Pandas|Data Visualization|Machine Learning|Problem Solving|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0234,J0018,Python|SQL|Statistics|Scikit-learn|Pandas|Data Visualization|Machine Learning|Problem Solving|Teamwork,SQL|Python|Excel|Power BI,SQL|Python,Excel|Power BI,False,True,0
+C0235,J0007,HTML|CSS|JavaScript|React|Node.js|Git|Time Management|Teamwork,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0235,J0042,HTML|CSS|JavaScript|React|Node.js|Git|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0236,J0019,Python|SQL|Statistics|Machine Learning|NumPy|Time Management|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0236,J0018,Python|SQL|Statistics|Machine Learning|NumPy|Time Management|Teamwork,SQL|Python|Excel|Power BI,SQL|Python,Excel|Power BI,True,True,0
+C0237,J0043,Python|Machine Learning|Deep Learning|MLOps|TensorFlow|PyTorch|Documentation|Communication,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0237,J0012,Python|Machine Learning|Deep Learning|MLOps|TensorFlow|PyTorch|Documentation|Communication,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,False,True,0
+C0238,J0031,Java|Spring Boot|SQL|Maven|REST APIs|OOP|Git|Documentation|Problem Solving,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0238,J0054,Java|Spring Boot|SQL|Maven|REST APIs|OOP|Git|Documentation|Problem Solving,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,True,True,0
+C0239,J0019,Python|SQL|Statistics|Machine Learning|Scikit-learn|NumPy|Pandas|Teamwork|Documentation,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0239,J0042,Python|SQL|Statistics|Machine Learning|Scikit-learn|NumPy|Pandas|Teamwork|Documentation,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0240,J0055,Requirements Gathering|SQL|Excel|User Stories|Power BI|Data Analysis|Documentation|Problem Solving,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0240,J0018,Requirements Gathering|SQL|Excel|User Stories|Power BI|Data Analysis|Documentation|Problem Solving,SQL|Python|Excel|Power BI,SQL|Excel|Power BI,Python,True,True,0
+C0241,J0019,Python|SQL|Statistics|Data Visualization|Pandas|NumPy|Documentation|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0241,J0042,Python|SQL|Statistics|Data Visualization|Pandas|NumPy|Documentation|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0242,J0001,Python|Java|C++|Git|Linux|REST APIs|Documentation|Time Management,Python|Java|C++,Python|Java|C++,,True,True,1
+C0242,J0012,Python|Java|C++|Git|Linux|REST APIs|Documentation|Time Management,HTML|CSS|JavaScript|React,,HTML|CSS|JavaScript|React,False,True,0
+C0243,J0043,Python|Machine Learning|Deep Learning|PyTorch|Scikit-learn|TensorFlow|Teamwork|Time Management,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0243,J0006,Python|Machine Learning|Deep Learning|PyTorch|Scikit-learn|TensorFlow|Teamwork|Time Management,Python|Java|C++|Git,Python,Java|C++|Git,False,True,0
+C0244,J0007,HTML|CSS|JavaScript|Express|Node.js|REST APIs|Responsive Design|Communication|Time Management,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0244,J0054,HTML|CSS|JavaScript|Express|Node.js|REST APIs|Responsive Design|Communication|Time Management,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,False,True,0
+C0246,J0001,Python|Java|C++|OOP|Git|Problem Solving|Documentation,Python|Java|C++,Python|Java|C++,,True,True,1
+C0246,J0030,Python|Java|C++|OOP|Git|Problem Solving|Documentation,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0248,J0037,Figma|Wireframing|Prototyping|Usability Testing|Accessibility|Design Systems|Adobe XD|Problem Solving|Communication,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0248,J0018,Figma|Wireframing|Prototyping|Usability Testing|Accessibility|Design Systems|Adobe XD|Problem Solving|Communication,SQL|Python|Excel|Power BI,,SQL|Python|Excel|Power BI,False,True,0
+C0249,J0007,HTML|CSS|JavaScript|Express|Node.js|Git|Teamwork|Communication,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0249,J0054,HTML|CSS|JavaScript|Express|Node.js|Git|Teamwork|Communication,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,False,True,0
+C0251,J0001,Python|Java|C++|Linux|Docker|Git|Time Management|Communication,Python|Java|C++,Python|Java|C++,,True,True,1
+C0251,J0024,Python|Java|C++|Linux|Docker|Git|Time Management|Communication,Python|SQL|Statistics|Machine Learning,Python,SQL|Statistics|Machine Learning,True,True,0
+C0252,J0001,Python|Java|C++|SQL|Docker|REST APIs|Documentation|Communication,Python|Java|C++,Python|Java|C++,,True,True,1
+C0252,J0048,Python|Java|C++|SQL|Docker|REST APIs|Documentation|Communication,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0253,J0037,Figma|Wireframing|Prototyping|User Research|Design Systems|Time Management|Teamwork,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0253,J0048,Figma|Wireframing|Prototyping|User Research|Design Systems|Time Management|Teamwork,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0254,J0049,SQL|PostgreSQL|MySQL|Linux|Database Design|Performance Tuning|Oracle|Teamwork|Communication,SQL|PostgreSQL|MySQL,SQL|PostgreSQL|MySQL,,True,True,1
+C0254,J0042,SQL|PostgreSQL|MySQL|Linux|Database Design|Performance Tuning|Oracle|Teamwork|Communication,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0255,J0025,Python|Django|Flask|FastAPI|PostgreSQL|Git|REST APIs|Problem Solving|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0255,J0048,Python|Django|Flask|FastAPI|PostgreSQL|Git|REST APIs|Problem Solving|Communication,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,False,True,0
+C0257,J0031,Java|Spring Boot|SQL|OOP|Maven|Hibernate|Teamwork|Problem Solving,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0257,J0048,Java|Spring Boot|SQL|OOP|Maven|Hibernate|Teamwork|Problem Solving,Python|Machine Learning|Deep Learning|TensorFlow,,Python|Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0258,J0007,HTML|CSS|JavaScript|Express|Git|React|Teamwork|Communication,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0258,J0006,HTML|CSS|JavaScript|Express|Git|React|Teamwork|Communication,Python|Java|C++|Git,Git,Python|Java|C++,True,True,0
+C0260,J0013,SQL|Python|Excel|Tableau|Power BI|Documentation|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0260,J0060,SQL|Python|Excel|Tableau|Power BI|Documentation|Teamwork,Requirements Gathering|SQL|Excel|Power BI,SQL|Excel|Power BI,Requirements Gathering,True,True,0
+C0261,J0043,Python|Machine Learning|Deep Learning|SQL|Docker|PyTorch|MLOps|Problem Solving|Documentation,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0261,J0024,Python|Machine Learning|Deep Learning|SQL|Docker|PyTorch|MLOps|Problem Solving|Documentation,Python|SQL|Statistics|Machine Learning,Python|SQL|Machine Learning,Statistics,True,True,0
+C0262,J0001,Python|Java|C++|Docker|Git|Problem Solving|Time Management,Python|Java|C++,Python|Java|C++,,True,True,1
+C0262,J0042,Python|Java|C++|Docker|Git|Problem Solving|Time Management,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,True,True,0
+C0263,J0025,Python|Django|Flask|PostgreSQL|FastAPI|Pytest|Documentation|Communication,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0263,J0006,Python|Django|Flask|PostgreSQL|FastAPI|Pytest|Documentation|Communication,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0265,J0037,Figma|Wireframing|Prototyping|User Research|Usability Testing|Adobe XD|Teamwork|Communication,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0265,J0060,Figma|Wireframing|Prototyping|User Research|Usability Testing|Adobe XD|Teamwork|Communication,Requirements Gathering|SQL|Excel|Power BI,,Requirements Gathering|SQL|Excel|Power BI,True,True,0
+C0267,J0037,Figma|Wireframing|Prototyping|Design Systems|User Research|Adobe XD|Communication|Problem Solving,Figma|Wireframing|Prototyping,Figma|Wireframing|Prototyping,,True,True,1
+C0267,J0006,Figma|Wireframing|Prototyping|Design Systems|User Research|Adobe XD|Communication|Problem Solving,Python|Java|C++|Git,,Python|Java|C++|Git,True,True,0
+C0268,J0055,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Stakeholder Management|User Stories|Teamwork|Documentation,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0268,J0006,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Stakeholder Management|User Stories|Teamwork|Documentation,Python|Java|C++|Git,,Python|Java|C++|Git,True,True,0
+C0269,J0055,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Time Management|Communication,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0269,J0024,Requirements Gathering|SQL|Excel|Process Mapping|Data Analysis|Time Management|Communication,Python|SQL|Statistics|Machine Learning,SQL,Python|Statistics|Machine Learning,False,True,0
+C0270,J0031,Java|Spring Boot|SQL|Git|Hibernate|Maven|Teamwork|Problem Solving,Java|Spring Boot|SQL,Java|Spring Boot|SQL,,True,True,1
+C0270,J0024,Java|Spring Boot|SQL|Git|Hibernate|Maven|Teamwork|Problem Solving,Python|SQL|Statistics|Machine Learning,SQL,Python|Statistics|Machine Learning,True,True,0
+C0271,J0019,Python|SQL|Statistics|Pandas|NumPy|Time Management|Communication,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0271,J0042,Python|SQL|Statistics|Pandas|NumPy|Time Management|Communication,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0275,J0055,Requirements Gathering|SQL|Excel|Stakeholder Management|Process Mapping|Communication|Teamwork,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0275,J0042,Requirements Gathering|SQL|Excel|Stakeholder Management|Process Mapping|Communication|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0280,J0019,Python|SQL|Statistics|Pandas|Machine Learning|Data Visualization|Scikit-learn|Documentation|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0280,J0006,Python|SQL|Statistics|Pandas|Machine Learning|Data Visualization|Scikit-learn|Documentation|Teamwork,Python|Java|C++|Git,Python,Java|C++|Git,True,True,0
+C0281,J0043,Python|Machine Learning|Deep Learning|PyTorch|Scikit-learn|TensorFlow|Docker|Time Management|Documentation,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0281,J0030,Python|Machine Learning|Deep Learning|PyTorch|Scikit-learn|TensorFlow|Docker|Time Management|Documentation,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,True,True,0
+C0282,J0055,Requirements Gathering|SQL|Excel|User Stories|Power BI|Data Analysis|Teamwork|Problem Solving,Requirements Gathering|SQL|Excel,Requirements Gathering|SQL|Excel,,True,True,1
+C0282,J0030,Requirements Gathering|SQL|Excel|User Stories|Power BI|Data Analysis|Teamwork|Problem Solving,Python|Django|Flask|FastAPI,,Python|Django|Flask|FastAPI,True,True,0
+C0283,J0019,Python|SQL|Statistics|Machine Learning|Data Visualization|Problem Solving|Time Management,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0283,J0054,Python|SQL|Statistics|Machine Learning|Data Visualization|Problem Solving|Time Management,SQL|PostgreSQL|MySQL|Oracle,SQL,PostgreSQL|MySQL|Oracle,False,True,0
+C0284,J0001,Python|Java|C++|REST APIs|SQL|Problem Solving|Teamwork,Python|Java|C++,Python|Java|C++,,True,True,1
+C0284,J0060,Python|Java|C++|REST APIs|SQL|Problem Solving|Teamwork,Requirements Gathering|SQL|Excel|Power BI,SQL,Requirements Gathering|Excel|Power BI,False,True,0
+C0286,J0019,Python|SQL|Statistics|Scikit-learn|NumPy|Machine Learning|Time Management|Teamwork,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0286,J0042,Python|SQL|Statistics|Scikit-learn|NumPy|Machine Learning|Time Management|Teamwork,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0287,J0019,Python|SQL|Statistics|Pandas|Data Visualization|NumPy|Communication|Documentation,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0287,J0048,Python|SQL|Statistics|Pandas|Data Visualization|NumPy|Communication|Documentation,Python|Machine Learning|Deep Learning|TensorFlow,Python,Machine Learning|Deep Learning|TensorFlow,True,True,0
+C0288,J0007,HTML|CSS|JavaScript|Responsive Design|Git|Communication|Documentation,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0288,J0024,HTML|CSS|JavaScript|Responsive Design|Git|Communication|Documentation,Python|SQL|Statistics|Machine Learning,,Python|SQL|Statistics|Machine Learning,False,True,0
+C0289,J0001,Python|Java|C++|REST APIs|Git|SQL|Documentation|Communication,Python|Java|C++,Python|Java|C++,,True,True,1
+C0289,J0042,Python|Java|C++|REST APIs|Git|SQL|Documentation|Communication,Figma|Wireframing|Prototyping|User Research,,Figma|Wireframing|Prototyping|User Research,False,True,0
+C0290,J0001,Python|Java|C++|Git|Linux|Docker|Documentation|Time Management,Python|Java|C++,Python|Java|C++,,True,True,1
+C0290,J0054,Python|Java|C++|Git|Linux|Docker|Documentation|Time Management,SQL|PostgreSQL|MySQL|Oracle,,SQL|PostgreSQL|MySQL|Oracle,True,True,0
+C0291,J0043,Python|Machine Learning|Deep Learning|Scikit-learn|MLOps|Docker|Communication|Documentation,Python|Machine Learning|Deep Learning,Python|Machine Learning|Deep Learning,,True,True,1
+C0291,J0036,Python|Machine Learning|Deep Learning|Scikit-learn|MLOps|Docker|Communication|Documentation,Java|Spring Boot|SQL|Hibernate,,Java|Spring Boot|SQL|Hibernate,True,True,0
+C0295,J0013,SQL|Python|Excel|Data Visualization|Data Cleaning|Power BI|Communication|Teamwork,SQL|Python|Excel,SQL|Python|Excel,,True,True,1
+C0295,J0006,SQL|Python|Excel|Data Visualization|Data Cleaning|Power BI|Communication|Teamwork,Python|Java|C++|Git,Python,Java|C++|Git,False,True,0
+C0296,J0019,Python|SQL|Statistics|Data Visualization|Scikit-learn|Machine Learning|NumPy|Communication|Problem Solving,Python|SQL|Statistics,Python|SQL|Statistics,,True,True,1
+C0296,J0030,Python|SQL|Statistics|Data Visualization|Scikit-learn|Machine Learning|NumPy|Communication|Problem Solving,Python|Django|Flask|FastAPI,Python,Django|Flask|FastAPI,False,True,0
+C0298,J0025,Python|Django|Flask|REST APIs|Git|FastAPI|Teamwork|Documentation,Python|Django|Flask,Python|Django|Flask,,True,True,1
+C0298,J0018,Python|Django|Flask|REST APIs|Git|FastAPI|Teamwork|Documentation,SQL|Python|Excel|Power BI,Python,SQL|Excel|Power BI,True,True,0
+C0300,J0007,HTML|CSS|JavaScript|REST APIs|Git|Responsive Design|Express|Problem Solving|Documentation,HTML|CSS|JavaScript,HTML|CSS|JavaScript,,True,True,1
+C0300,J0006,HTML|CSS|JavaScript|REST APIs|Git|Responsive Design|Express|Problem Solving|Documentation,Python|Java|C++|Git,Git,Python|Java|C++,False,True,0

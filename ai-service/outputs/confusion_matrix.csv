@@ -1,0 +1,11 @@
+true_category,Software Developer,Web Developer,Data Analyst,Data Scientist,Python Developer,Java Developer,UI/UX Designer,Machine Learning Engineer,Database Administrator,Business Analyst
+Software Developer,4,0,0,0,0,0,0,0,0,0
+Web Developer,0,5,0,0,0,0,0,0,0,0
+Data Analyst,0,0,4,0,0,0,0,0,0,0
+Data Scientist,0,0,0,5,0,0,0,0,0,0
+Python Developer,0,0,0,0,5,0,0,0,0,0
+Java Developer,0,0,0,0,0,5,0,0,0,0
+UI/UX Designer,0,0,0,0,0,0,4,0,0,0
+Machine Learning Engineer,0,0,0,0,0,0,0,4,0,0
+Database Administrator,0,0,0,0,0,0,0,0,5,0
+Business Analyst,0,0,0,0,0,0,0,0,0,4

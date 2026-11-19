@@ -1,0 +1,62 @@
+skill_id,skill_name,skill_category,related_job_roles,skill_type
+S0001,Accessibility,Design,UI/UX Designer,technical
+S0002,Adobe XD,Design,UI/UX Designer,technical
+S0003,Backup and Recovery,Database,Database Administrator,technical
+S0004,C++,Programming and Methods,Software Developer,technical
+S0005,Communication,Soft Skills,Business Analyst|Data Analyst|Data Scientist|Database Administrator|Java Developer|Machine Learning Engineer|Python Developer|Software Developer|UI/UX Designer|Web Developer,soft
+S0006,CSS,Web Development,Web Developer,technical
+S0007,Data Analysis,Analytics,Business Analyst,technical
+S0008,Data Cleaning,Analytics,Data Analyst,technical
+S0009,Data Visualization,Analytics,Data Analyst|Data Scientist,technical
+S0010,Database Design,Database,Database Administrator,technical
+S0011,Deep Learning,AI/ML,Machine Learning Engineer,technical
+S0012,Design Systems,Design,UI/UX Designer,technical
+S0013,Django,Frameworks and Tools,Python Developer,technical
+S0014,Docker,Tools and Platforms,Machine Learning Engineer|Software Developer,technical
+S0015,Documentation,Soft Skills,Business Analyst|Data Analyst|Data Scientist|Database Administrator|Java Developer|Machine Learning Engineer|Python Developer|Software Developer|UI/UX Designer|Web Developer,soft
+S0016,Excel,Analytics,Business Analyst|Data Analyst,technical
+S0017,Express,Web Development,Web Developer,technical
+S0018,FastAPI,Frameworks and Tools,Python Developer,technical
+S0019,Figma,Design,UI/UX Designer,technical
+S0020,Flask,Frameworks and Tools,Python Developer,technical
+S0021,Git,Tools and Platforms,Java Developer|Python Developer|Software Developer|Web Developer,technical
+S0022,Hibernate,Frameworks and Tools,Java Developer,technical
+S0023,HTML,Web Development,Web Developer,technical
+S0024,Java,Programming and Methods,Java Developer|Software Developer,technical
+S0025,JavaScript,Web Development,Web Developer,technical
+S0026,Linux,Tools and Platforms,Database Administrator|Software Developer,technical
+S0027,Machine Learning,AI/ML,Data Scientist|Machine Learning Engineer,technical
+S0028,Maven,Frameworks and Tools,Java Developer,technical
+S0029,MLOps,AI/ML,Machine Learning Engineer,technical
+S0030,MySQL,Database,Database Administrator,technical
+S0031,Node.js,Web Development,Web Developer,technical
+S0032,NumPy,AI/ML,Data Scientist,technical
+S0033,OOP,Programming and Methods,Java Developer|Software Developer,technical
+S0034,Oracle,Database,Database Administrator,technical
+S0035,Pandas,AI/ML,Data Scientist,technical
+S0036,Performance Tuning,Database,Database Administrator,technical
+S0037,PostgreSQL,Database,Database Administrator|Python Developer,technical
+S0038,Power BI,Analytics,Business Analyst|Data Analyst,technical
+S0039,Problem Solving,Soft Skills,Business Analyst|Data Analyst|Data Scientist|Database Administrator|Java Developer|Machine Learning Engineer|Python Developer|Software Developer|UI/UX Designer|Web Developer,soft
+S0040,Process Mapping,Programming and Methods,Business Analyst,technical
+S0041,Prototyping,Design,UI/UX Designer,technical
+S0042,Pytest,Frameworks and Tools,Python Developer,technical
+S0043,Python,Programming and Methods,Data Analyst|Data Scientist|Machine Learning Engineer|Python Developer|Software Developer,technical
+S0044,PyTorch,AI/ML,Machine Learning Engineer,technical
+S0045,React,Web Development,Web Developer,technical
+S0046,Requirements Gathering,Programming and Methods,Business Analyst,technical
+S0047,Responsive Design,Web Development,Web Developer,technical
+S0048,REST APIs,Tools and Platforms,Java Developer|Python Developer|Software Developer|Web Developer,technical
+S0049,Scikit-learn,AI/ML,Data Scientist|Machine Learning Engineer,technical
+S0050,Spring Boot,Frameworks and Tools,Java Developer,technical
+S0051,SQL,Database,Business Analyst|Data Analyst|Data Scientist|Database Administrator|Java Developer|Machine Learning Engineer|Software Developer,technical
+S0052,Stakeholder Management,Programming and Methods,Business Analyst,technical
+S0053,Statistics,AI/ML,Data Analyst|Data Scientist,technical
+S0054,Tableau,Analytics,Data Analyst,technical
+S0055,Teamwork,Soft Skills,Business Analyst|Data Analyst|Data Scientist|Database Administrator|Java Developer|Machine Learning Engineer|Python Developer|Software Developer|UI/UX Designer|Web Developer,soft
+S0056,TensorFlow,AI/ML,Machine Learning Engineer,technical
+S0057,Time Management,Soft Skills,Business Analyst|Data Analyst|Data Scientist|Database Administrator|Java Developer|Machine Learning Engineer|Python Developer|Software Developer|UI/UX Designer|Web Developer,soft
+S0058,Usability Testing,Design,UI/UX Designer,technical
+S0059,User Research,Design,UI/UX Designer,technical
+S0060,User Stories,Programming and Methods,Business Analyst,technical
+S0061,Wireframing,Design,UI/UX Designer,technical

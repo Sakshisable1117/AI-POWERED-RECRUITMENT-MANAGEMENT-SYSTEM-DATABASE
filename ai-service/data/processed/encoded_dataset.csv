@@ -1,0 +1,301 @@
+resume_id,job_category,job_category_encoded,experience_years
+R0001,Data Scientist,3,0
+R0002,Machine Learning Engineer,7,2
+R0003,Web Developer,1,9
+R0004,Data Analyst,2,7
+R0005,Web Developer,1,2
+R0006,Database Administrator,8,10
+R0007,UI/UX Designer,6,9
+R0008,Python Developer,4,10
+R0009,Software Developer,0,8
+R0010,Machine Learning Engineer,7,6
+R0011,Software Developer,0,5
+R0012,Business Analyst,9,12
+R0013,Data Scientist,3,7
+R0014,Machine Learning Engineer,7,5
+R0015,UI/UX Designer,6,9
+R0016,Business Analyst,9,11
+R0017,Business Analyst,9,11
+R0018,Web Developer,1,10
+R0019,Java Developer,5,7
+R0020,Java Developer,5,10
+R0021,Database Administrator,8,7
+R0022,Software Developer,0,3
+R0023,Machine Learning Engineer,7,12
+R0024,Database Administrator,8,10
+R0025,Python Developer,4,2
+R0026,Python Developer,4,5
+R0027,Database Administrator,8,0
+R0028,UI/UX Designer,6,7
+R0029,Data Analyst,2,6
+R0030,Software Developer,0,3
+R0031,Business Analyst,9,11
+R0032,Python Developer,4,3
+R0033,UI/UX Designer,6,12
+R0034,Web Developer,1,9
+R0035,Machine Learning Engineer,7,10
+R0036,UI/UX Designer,6,11
+R0037,Database Administrator,8,5
+R0038,Data Scientist,3,7
+R0039,Data Scientist,3,8
+R0040,Web Developer,1,7
+R0041,Database Administrator,8,7
+R0042,Database Administrator,8,11
+R0043,Business Analyst,9,1
+R0044,Data Analyst,2,8
+R0045,Database Administrator,8,7
+R0046,Data Scientist,3,9
+R0047,Database Administrator,8,9
+R0048,Java Developer,5,12
+R0049,UI/UX Designer,6,2
+R0050,Web Developer,1,11
+R0051,Software Developer,0,10
+R0052,Database Administrator,8,7
+R0053,Software Developer,0,9
+R0054,Machine Learning Engineer,7,12
+R0055,Data Scientist,3,5
+R0056,Python Developer,4,7
+R0057,Java Developer,5,6
+R0058,Data Scientist,3,4
+R0059,Business Analyst,9,1
+R0060,UI/UX Designer,6,6
+R0061,Machine Learning Engineer,7,1
+R0062,Database Administrator,8,2
+R0063,Web Developer,1,3
+R0064,Database Administrator,8,0
+R0065,Machine Learning Engineer,7,6
+R0066,Machine Learning Engineer,7,5
+R0067,Machine Learning Engineer,7,1
+R0068,Python Developer,4,5
+R0069,Data Analyst,2,9
+R0070,UI/UX Designer,6,4
+R0071,Web Developer,1,10
+R0072,Python Developer,4,6
+R0073,Business Analyst,9,4
+R0074,Business Analyst,9,12
+R0075,Machine Learning Engineer,7,2
+R0076,Software Developer,0,12
+R0077,Python Developer,4,8
+R0078,Data Scientist,3,7
+R0079,Business Analyst,9,0
+R0080,Java Developer,5,5
+R0081,Database Administrator,8,11
+R0082,Java Developer,5,0
+R0083,Java Developer,5,3
+R0084,Machine Learning Engineer,7,12
+R0085,Python Developer,4,10
+R0086,Machine Learning Engineer,7,4
+R0087,Web Developer,1,12
+R0088,Business Analyst,9,7
+R0089,Business Analyst,9,1
+R0090,Data Analyst,2,7
+R0091,Java Developer,5,5
+R0092,Database Administrator,8,2
+R0093,UI/UX Designer,6,8
+R0094,Data Analyst,2,9
+R0095,Web Developer,1,12
+R0096,Python Developer,4,4
+R0097,Data Scientist,3,11
+R0098,Database Administrator,8,11
+R0099,Data Analyst,2,7
+R0100,Java Developer,5,1
+R0101,Data Scientist,3,3
+R0102,Machine Learning Engineer,7,6
+R0103,Machine Learning Engineer,7,5
+R0104,UI/UX Designer,6,11
+R0105,Data Analyst,2,6
+R0106,Python Developer,4,12
+R0107,Web Developer,1,12
+R0108,Software Developer,0,7
+R0109,Data Analyst,2,4
+R0110,Data Analyst,2,7
+R0111,Data Analyst,2,12
+R0112,Python Developer,4,5
+R0113,Machine Learning Engineer,7,8
+R0114,UI/UX Designer,6,10
+R0115,Java Developer,5,0
+R0116,Business Analyst,9,4
+R0117,UI/UX Designer,6,2
+R0118,Data Scientist,3,8
+R0119,Machine Learning Engineer,7,12
+R0120,Database Administrator,8,11
+R0121,Python Developer,4,7
+R0122,Software Developer,0,5
+R0123,Python Developer,4,11
+R0124,Data Analyst,2,8
+R0125,Business Analyst,9,1
+R0126,Web Developer,1,3
+R0127,Software Developer,0,0
+R0128,Data Analyst,2,2
+R0129,Data Analyst,2,1
+R0130,Java Developer,5,8
+R0131,Machine Learning Engineer,7,4
+R0132,Software Developer,0,5
+R0133,Business Analyst,9,1
+R0134,Data Analyst,2,0
+R0135,Database Administrator,8,0
+R0136,Database Administrator,8,9
+R0137,Database Administrator,8,6
+R0138,Data Scientist,3,4
+R0139,Java Developer,5,2
+R0140,Web Developer,1,11
+R0141,Database Administrator,8,8
+R0142,Data Analyst,2,12
+R0143,Software Developer,0,2
+R0144,Python Developer,4,2
+R0145,Web Developer,1,2
+R0146,Python Developer,4,0
+R0147,Database Administrator,8,7
+R0148,Software Developer,0,7
+R0149,Machine Learning Engineer,7,2
+R0150,Java Developer,5,1
+R0151,Business Analyst,9,3
+R0152,Data Analyst,2,3
+R0153,Machine Learning Engineer,7,1
+R0154,Data Analyst,2,9
+R0155,UI/UX Designer,6,6
+R0156,UI/UX Designer,6,0
+R0157,Software Developer,0,2
+R0158,Software Developer,0,5
+R0159,Python Developer,4,2
+R0160,Data Analyst,2,2
+R0161,Database Administrator,8,8
+R0162,Business Analyst,9,9
+R0163,Java Developer,5,5
+R0164,Business Analyst,9,0
+R0165,Data Scientist,3,8
+R0166,UI/UX Designer,6,10
+R0167,Java Developer,5,8
+R0168,Data Scientist,3,12
+R0169,Database Administrator,8,11
+R0170,Java Developer,5,2
+R0171,Web Developer,1,11
+R0172,Software Developer,0,2
+R0173,Business Analyst,9,4
+R0174,Software Developer,0,2
+R0175,Python Developer,4,2
+R0176,Python Developer,4,8
+R0177,UI/UX Designer,6,2
+R0178,Machine Learning Engineer,7,7
+R0179,Data Scientist,3,0
+R0180,UI/UX Designer,6,4
+R0181,UI/UX Designer,6,1
+R0182,Data Scientist,3,12
+R0183,Python Developer,4,2
+R0184,UI/UX Designer,6,9
+R0185,Python Developer,4,12
+R0186,Python Developer,4,2
+R0187,Database Administrator,8,0
+R0188,Web Developer,1,3
+R0189,Data Analyst,2,6
+R0190,Web Developer,1,0
+R0191,Data Scientist,3,5
+R0192,Java Developer,5,8
+R0193,Business Analyst,9,7
+R0194,Python Developer,4,0
+R0195,Java Developer,5,8
+R0196,UI/UX Designer,6,11
+R0197,UI/UX Designer,6,2
+R0198,Database Administrator,8,9
+R0199,Python Developer,4,0
+R0200,Web Developer,1,5
+R0201,Business Analyst,9,10
+R0202,Business Analyst,9,1
+R0203,Data Scientist,3,1
+R0204,Data Analyst,2,4
+R0205,Software Developer,0,0
+R0206,Database Administrator,8,12
+R0207,Software Developer,0,12
+R0208,UI/UX Designer,6,5
+R0209,UI/UX Designer,6,2
+R0210,Data Analyst,2,6
+R0211,Java Developer,5,2
+R0212,Web Developer,1,4
+R0213,Business Analyst,9,2
+R0214,Database Administrator,8,4
+R0215,Java Developer,5,9
+R0216,Data Analyst,2,10
+R0217,Database Administrator,8,3
+R0218,Data Scientist,3,8
+R0219,Machine Learning Engineer,7,10
+R0220,Data Analyst,2,8
+R0221,UI/UX Designer,6,4
+R0222,Python Developer,4,12
+R0223,Web Developer,1,0
+R0224,Machine Learning Engineer,7,8
+R0225,Java Developer,5,0
+R0226,Software Developer,0,12
+R0227,Java Developer,5,9
+R0228,Business Analyst,9,10
+R0229,Java Developer,5,6
+R0230,Data Analyst,2,2
+R0231,Java Developer,5,8
+R0232,Web Developer,1,12
+R0233,Data Scientist,3,9
+R0234,Data Scientist,3,0
+R0235,Web Developer,1,11
+R0236,Data Scientist,3,9
+R0237,Machine Learning Engineer,7,4
+R0238,Java Developer,5,9
+R0239,Data Scientist,3,7
+R0240,Business Analyst,9,6
+R0241,Data Scientist,3,10
+R0242,Software Developer,0,0
+R0243,Machine Learning Engineer,7,1
+R0244,Web Developer,1,0
+R0245,Machine Learning Engineer,7,11
+R0246,Software Developer,0,1
+R0247,Data Analyst,2,8
+R0248,UI/UX Designer,6,1
+R0249,Web Developer,1,3
+R0250,Java Developer,5,12
+R0251,Software Developer,0,5
+R0252,Software Developer,0,0
+R0253,UI/UX Designer,6,10
+R0254,Database Administrator,8,8
+R0255,Python Developer,4,3
+R0256,UI/UX Designer,6,11
+R0257,Java Developer,5,11
+R0258,Web Developer,1,7
+R0259,UI/UX Designer,6,9
+R0260,Data Analyst,2,6
+R0261,Machine Learning Engineer,7,11
+R0262,Software Developer,0,12
+R0263,Python Developer,4,5
+R0264,Java Developer,5,12
+R0265,UI/UX Designer,6,5
+R0266,Web Developer,1,1
+R0267,UI/UX Designer,6,10
+R0268,Business Analyst,9,11
+R0269,Business Analyst,9,2
+R0270,Java Developer,5,7
+R0271,Data Scientist,3,3
+R0272,Data Analyst,2,10
+R0273,Business Analyst,9,12
+R0274,Java Developer,5,10
+R0275,Business Analyst,9,1
+R0276,Data Analyst,2,2
+R0277,Software Developer,0,10
+R0278,Python Developer,4,6
+R0279,Machine Learning Engineer,7,6
+R0280,Data Scientist,3,12
+R0281,Machine Learning Engineer,7,5
+R0282,Business Analyst,9,9
+R0283,Data Scientist,3,0
+R0284,Software Developer,0,0
+R0285,Database Administrator,8,5
+R0286,Data Scientist,3,3
+R0287,Data Scientist,3,12
+R0288,Web Developer,1,2
+R0289,Software Developer,0,4
+R0290,Software Developer,0,11
+R0291,Machine Learning Engineer,7,12
+R0292,Web Developer,1,1
+R0293,Business Analyst,9,10
+R0294,Web Developer,1,10
+R0295,Data Analyst,2,0
+R0296,Data Scientist,3,2
+R0297,Python Developer,4,10
+R0298,Python Developer,4,7
+R0299,Software Developer,0,12
+R0300,Web Developer,1,4
